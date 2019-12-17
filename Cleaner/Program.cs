@@ -12,7 +12,7 @@ namespace Cleaner
         {
             // Первый комментарий
             Console.WriteLine("Hello, world!!!!");
-            Console.WriteLine("Проверка");
+            Console.WriteLine("Проверка новой ветки");
             Console.ReadLine();
         }
     }
