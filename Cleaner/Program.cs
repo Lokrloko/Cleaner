@@ -11,7 +11,7 @@ namespace Cleaner
         static void Main(string[] args)
         {
             // Первый комментарий
-            Console.WriteLine("Hello, world!!!!");
+            Console.WriteLine("Hello, world!");
             Console.ReadLine();
         }
     }
